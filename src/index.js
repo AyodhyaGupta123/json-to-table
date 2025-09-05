@@ -1,8 +1,8 @@
 /**
  * @function jsonToTable
- * @description Converts an array of JSON objects into a responsive and styled HTML table
- * @param {Array} jsonData - Array of objects to convert into a table
- * @returns {string} - HTML table string
+ * @description 
+ * @param {Array} jsonData 
+ * @returns {string} 
  */
 function jsonToTable(jsonData) {
     if (!Array.isArray(jsonData)) {

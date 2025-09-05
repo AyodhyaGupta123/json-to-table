@@ -1,5 +1,5 @@
 {
-  "name": "@ayodhya/json-to-table",
+  "name": "@ayodhyagupta/json-to-table",
   "version": "1.0.0",
   "description": "A lightweight utility to convert JSON data into a responsive and stylish HTML table.",
   "main": "src/index.js",
@@ -8,17 +8,8 @@
     "html",
     "table",
     "converter",
-    "ayodhya",
     "utility"
   ],
   "author": "Ayodhya Gupta",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/AyodhyaGupta123/json-to-table.git"
-  },
-  "bugs": {
-    "url": "https://github.com/AyodhyaGupta123/json-to-table/issues"
-  },
-  "homepage": "https://github.com/AyodhyaGupta123/json-to-table#readme"
+  "license": "MIT"
 }
