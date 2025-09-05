@@ -1,6 +1,6 @@
 {
   "name": "@ayodhyagupta/json-to-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility to convert JSON data into a responsive and stylish HTML table.",
   "main": "src/index.js",
   "keywords": [
